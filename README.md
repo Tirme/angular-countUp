@@ -5,7 +5,7 @@ AngularJS directive for countUp
 
 A simple Angularjs directive for <a href="https://github.com/inorganik/countUp.js" target="_blank">countUp.js.</a>
 
-see https://github.com/inorganik/countUp.js
+see <a href="https://github.com/inorganik/countUp.js" target="_blank">https://github.com/inorganik/countUp.js</a>
 
 ```html
 <countup startval="countup.startval"
