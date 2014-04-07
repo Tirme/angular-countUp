@@ -7,7 +7,14 @@ A simple Angularjs directive for <a href="https://github.com/inorganik/countUp.j
 
 see https://github.com/inorganik/countUp.js
 
-`<countup startval="countup.startval" endval="countup.endval" duration="3" decimals="0" options="countup.options"></countup>`
+```html
+<countup startval="countup.startval"
+	endval="countup.endval"
+	duration="3"
+	decimals="0"
+	options="countup.options">
+</countup>
+```
 
 ```javascript
 
