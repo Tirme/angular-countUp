@@ -29,16 +29,16 @@ Put the `countup` tag into your html.
 
 ```javascript
 angular.module('myApp', ['countUp']).controller('myCtrl', function($scope) {
-  $scope.countup = {
-    startval: 100,
-    endval: 0,
-    // default options
-    options: {
-      useEasing : true, 
-      useGrouping : true, 
-      separator : ',', 
-      decimal : '.' 
-    }
-  };
+	$scope.countup = {
+		startval: 100,
+		endval: 0,
+		// default options
+		options: {
+			useEasing : true, 
+			useGrouping : true, 
+			separator : ',', 
+			decimal : '.' 
+		}
+	};
 });
 ```
